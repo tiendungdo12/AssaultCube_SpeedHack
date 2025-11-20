@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 322 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  AssaultCube_WallHack.vcxproj -> D:\VTC\Windows RE\InjectDLLTest\AssaultCube_WallHack\Release\AssaultCube_WallHack.dll

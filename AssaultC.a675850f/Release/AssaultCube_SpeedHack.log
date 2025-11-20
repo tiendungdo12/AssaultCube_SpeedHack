@@ -1,8 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: The intermediate directory (AssaultC.a675850f\Release\) contains files shared from another project (AssaultCube_WallHack.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  pch.cpp
-  dllmain.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 229 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  AssaultCube_SpeedHack.vcxproj -> D:\VTC\Windows RE\InjectDLLTest\AssaultCube_SpeedHack\Release\AssaultCube_SpeedHack.dll
