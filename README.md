@@ -1,0 +1,1 @@
+A speed hack for AssaultCube
