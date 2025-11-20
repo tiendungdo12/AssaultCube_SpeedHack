@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AssaultCube_SpeedHack.vcxproj" Id="a675850f-f837-44f0-aec7-09b390af4754" />
+</Solution>
